@@ -1,5 +1,5 @@
 steps:
-- name: python:3.7
+- name: python:3.10
   id: INSTALL
   entrypoint: python3
   args:
@@ -10,7 +10,7 @@ steps:
   - '.'
   - '-r'
   - 'requirements.txt'
-- name: python:3.7
+- name: python:3.10
   entrypoint: ./pylint_runner
   id: LINT
   waitFor:
