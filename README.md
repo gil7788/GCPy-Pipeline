@@ -1,8 +1,6 @@
 [![Python application test with Github Actions](https://github.com/noahgift/gcp-from-zero/actions/workflows/python-publish.yml/badge.svg)](https://github.com/noahgift/gcp-from-zero/actions/workflows/python-publish.yml)
 
-# gcp-from-zero
-This is a new repo
-
+# Google Cloud Platfrom with Python Scaffold
 
 ## First thing to do is DevOps Workflow
 
